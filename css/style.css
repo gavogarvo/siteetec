@@ -1,4 +1,27 @@
 h1, h2, h3, h4 {
 
-    background-color: cadetblue;
+    background-color: #0b6d8d;
 }
+h1, h2, h3 {
+    color: aliceblue
+}
+
+#b {
+
+    text-align: center;
+    background-color: #0b6d8d
+   }
+.menu {
+display: inline-block;
+list-style: none
+
+}
+.menu a{
+ color: aliceblue;
+}
+ body{width: 80% ;
+margin: auto;
+}
+
+
+ 
